@@ -1,0 +1,37 @@
+ .container{
+	background-image: url(abcd2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 5%;
+	
+}
+
+h1{
+	color: #FF0000;
+	padding-top:20%;
+}
+h5{
+	color: #FFFFFF;
+	text-align: papyrus;
+}
+h4{
+	text-decoration: line-through;
+	text-align: center;
+	color: #FFFFFF;
+}
+h2{
+	text-align: center;
+	font-size: 50px;
+}
+.orange{
+	border:0px solid white;
+	padding-left: 10%;
+	padding-right: 10%;
+	height: 50px;
+}
+.class2{
+	padding-top: 30%;
+}
+.h2{
+	color: rgb(245,90,78);
+}
